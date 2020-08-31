@@ -1,0 +1,22 @@
+{
+  "name": "react-native-clear-cache",
+  "version": "1.0.0",
+  "description": "clear cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pliybird/react-native-clear-cache.git"
+  },
+  "keywords": [
+    "react-native-clear-cache"
+  ],
+  "author": "pliybird",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pliybird/react-native-clear-cache/issues"
+  },
+  "homepage": "https://github.com/pliybird/react-native-clear-cache#readme"
+}
