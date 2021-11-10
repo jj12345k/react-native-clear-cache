@@ -1,6 +1,6 @@
 {
   "name": "@wu_rong_tai/react-native-clear-cache",
-  "version": "1.3.0",
+  "version": "1.4.1",
   "description": "clear cache",
   "main": "index.js",
   "scripts": {
